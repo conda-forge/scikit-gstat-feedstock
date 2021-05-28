@@ -27,6 +27,8 @@ requirements:
     - python
     - scikit-learn
     - scipy
+    - joblib
+    - tqdm
 
 test:
   imports:
