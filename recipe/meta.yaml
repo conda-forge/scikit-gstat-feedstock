@@ -1,5 +1,5 @@
 {% set name = "scikit-gstat" %}
-{% set version = "0.6.2" %}
+{% set version = "0.6.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: f0e27add7c52614bcfc5349f2d1fb947f5523df72f9a28392486c0bc83d96b83
+  sha256: 0be539654359623cced26f0596e57b0d9ebbadfcf5641b832c8c013e14e5f35c
 
 build:
   number: 0
