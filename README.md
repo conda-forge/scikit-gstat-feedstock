@@ -1,11 +1,11 @@
-About scikit-gstat
-==================
+About scikit-gstat-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/scikit-gstat-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mmaelicke/scikit-gstat
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/scikit-gstat-feedstock/blob/main/LICENSE.txt)
 
 Summary: Geostatistical expansion in the scipy style
 
